@@ -1,5 +1,6 @@
 # APWebServer project
 ## IoT board
+![Arduino NANO 33 IoT](/img/img1.png)
 - Arduino NANO 33 IoT
   - ARM Cortex M0+ controller
   - NINA WiFI/BLE module
@@ -14,7 +15,8 @@
   - Button
   - NTC sensor and magnetometer
   - Terminal strip
- 
+ - Board setup:
+ ![Setup](/img/img2.png)
 ### Code based on Arduino sample projects from each library:
 - WiFiNINA
   - AP_SimpleWebServer
